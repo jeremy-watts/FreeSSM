@@ -55,7 +55,7 @@ www.sourceforge.net/projects/tinyxml for further informations.
    - Windows (XP and older are untested/unmaintained !)
 
 With minor modifications, it should be possible to build FreeSSM on MacOS X
-and other Unix systems, too, but there is currently no offical support.
+and other Unix systems, too, but there is currently no official support.
 
 --------------------------------------------------------------------------------
 
